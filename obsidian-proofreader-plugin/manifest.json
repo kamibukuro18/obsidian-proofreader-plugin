@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-proofreader-plugin",
+	"name": "AI校正プラグイン",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Claudeを使ってObsidian内の文章を自動校正します。",
+	"author": "GAI",
+	"authorUrl": "https://gaibako.com",
+	"isDesktopOnly": true
+}
